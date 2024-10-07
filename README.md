@@ -5,3 +5,4 @@
 - 😄 Pronouns: He/Him
 - currently doing bachelors
 - Python & HTML dev
+ 
