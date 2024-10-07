@@ -4,5 +4,4 @@
 - 📫 contact no only on whatsapp- 9412341193
 - 😄 Pronouns: He/Him
 - currently doing bachelors
-- python dev
-  
+- Python & HTML dev
